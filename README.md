@@ -62,3 +62,15 @@ Insurance Analytics Dashboard is showcasing very important KPIs which the manage
 ### Sunburst Chart
 <img width="1429" height="813" alt="image" src="https://github.com/user-attachments/assets/7806788a-eafd-4da6-b988-ae5fa0bba893" />
 
+# Tableau Dashboard
+
+## Index Page
+<img width="1916" height="994" alt="image" src="https://github.com/user-attachments/assets/fdd25b88-4a23-4582-b874-5df2d0ed61e3" />
+
+## Main Dashboard
+<img width="1912" height="980" alt="image" src="https://github.com/user-attachments/assets/147d6cf4-37b0-479b-8e77-5e9d812cfb6d" />
+
+## Detailed Dashboard
+<img width="1915" height="986" alt="image" src="https://github.com/user-attachments/assets/7cbb6e2a-ecad-40a0-ae4c-6500ea06efca" />
+
+
