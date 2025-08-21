@@ -35,4 +35,9 @@ Insurance Analytics Dashboard is showcasing very important KPIs which the manage
       * Assessing cross-selling, new business, and renewal metrics against targets.
       * Developing revenue-based stage funnel analysis for visualizing sales opportunities.
       * Tracking meeting counts by Account Executive and identifying top open opportunities for focused sales efforts.
-  
+   
+# MySQL Queries 
+
+
+
+
