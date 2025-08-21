@@ -27,7 +27,7 @@ Insurance Analytics Dashboard is showcasing very important KPIs which the manage
   * Use of Customize visuals in Power BI
 # Insurance Data Set Table Description
 
-***Click here to see*** https://github.com/varunrajbokaro/Insurance-Analytics-Dashboard/blob/main/Insurance%20Dataset%20Table%20Description.pdf
+***[Click here to see](https://github.com/varunrajbokaro/Insurance-Analytics-Dashboard/blob/main/Insurance%20Dataset%20Table%20Description.pdf)*** 
 
 # Excel Dashboard
 <img width="1875" height="834" alt="image" src="https://github.com/user-attachments/assets/9d6f9f34-2af0-411f-b870-0eb8adfaea75" />
