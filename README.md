@@ -37,7 +37,7 @@ Insurance Analytics Dashboard is showcasing very important KPIs which the manage
       * Tracking meeting counts by Account Executive and identifying top open opportunities for focused sales efforts.
    
 # MySQL Queries 
-
+***[Click here to see the Queries and their Output](https://github.com/varunrajbokaro/Insurance-Analytics-Dashboard/blob/main/MySql%20Queries%20for%20Insurance%20Analystics%20Dashboard.pdf)***
   [MySql Queries for Insurance Analystics Dashboard.pdf](https://github.com/user-attachments/files/21910861/MySql.Queries.for.Insurance.Analystics.Dashboard.pdf)
 
 
