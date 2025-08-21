@@ -80,4 +80,6 @@ Insurance Analytics Dashboard is showcasing very important KPIs which the manage
 ## Detailed Dashboard
 <img width="1915" height="986" alt="image" src="https://github.com/user-attachments/assets/7cbb6e2a-ecad-40a0-ae4c-6500ea06efca" />
 
-
+# Created by Varun Raj
+   **[Portfolio](https://varunrajportfolio.my.canva.site/varun-raj-portfolio/#page-0)** ||
+   **[Linkedin Profile](https://www.linkedin.com/in/varun-raj-bokaro/)**
