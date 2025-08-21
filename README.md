@@ -38,6 +38,8 @@ Insurance Analytics Dashboard is showcasing very important KPIs which the manage
    
 # MySQL Queries 
 ***[Click here to see the Queries and their Output](https://github.com/varunrajbokaro/Insurance-Analytics-Dashboard/blob/main/MySql%20Queries%20for%20Insurance%20Analystics%20Dashboard.pdf)***
+
+***To Download the file click here***
   [MySql Queries for Insurance Analystics Dashboard.pdf](https://github.com/user-attachments/files/21910861/MySql.Queries.for.Insurance.Analystics.Dashboard.pdf)
 
 
