@@ -45,4 +45,20 @@ Insurance Analytics Dashboard is showcasing very important KPIs which the manage
 ***To Download the file click here***
   [MySql Queries for Insurance Analystics Dashboard.pdf](https://github.com/user-attachments/files/21910861/MySql.Queries.for.Insurance.Analystics.Dashboard.pdf)
 
+# Power BI Dashboard
+
+## Index Page
+<img width="1408" height="795" alt="image" src="https://github.com/user-attachments/assets/5364415e-c8ad-4486-8914-2da820047fd3" />
+
+   * This page contains two navigation buttons :
+       * Main Dashoard - By clicking on this the user will get directed to the ***Main Dashboard***.
+       * Detailed Dashboard - By clicking on this the user will get directed to the ***Detailed Dashboard***.
+## Main Dashboard        
+<img width="1455" height="818" alt="image" src="https://github.com/user-attachments/assets/450d649b-3d77-4dab-a1ac-367c3d0f1595" />
+
+## Detailed Dashboard 
+<img width="1439" height="797" alt="image" src="https://github.com/user-attachments/assets/02dfe751-f9fd-4ac1-b57d-d5bea62054e5" />
+
+### Sunburst Chart
+<img width="1429" height="813" alt="image" src="https://github.com/user-attachments/assets/7806788a-eafd-4da6-b988-ae5fa0bba893" />
 
