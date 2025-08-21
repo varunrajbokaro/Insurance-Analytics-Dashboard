@@ -25,6 +25,8 @@ Insurance Analytics Dashboard is showcasing very important KPIs which the manage
   * Use of Action Dashboard in Tableau
   * Use of Slicers to filter the data in real time
   * Use of Customize visuals in Power BI
+# Insurance Data Set Table Description
+
 
 # Excel Dashboard
 <img width="1875" height="834" alt="image" src="https://github.com/user-attachments/assets/9d6f9f34-2af0-411f-b870-0eb8adfaea75" />
